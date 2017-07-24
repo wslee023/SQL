@@ -16,7 +16,7 @@
 5.	List required number of the available time slots
 
 # Calculation result sample
-* Input:
+## Input
 * Last start date:            		2017-1-1 19:00:00
 * The earliest available date:          2017-1-15
 * Time slot separation length:        60 minutes
@@ -24,7 +24,7 @@
 * Time slot search iteration:           30 
 * Time slot duration:		90
 
-# Output:
+## Output
 
  
 | display_order |	search_datetime_start	| search_datetime_end |
