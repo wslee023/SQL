@@ -121,3 +121,7 @@ SELECT
 	, [search_datetime_start]
 	, [search_datetime_end]
 FROM	#tmp_search_datetime
+
+DROP TABLE #tmp_search_datetime
+DROP TABLE #tmp_result_A
+DROP TABLE #tmp_result_B
