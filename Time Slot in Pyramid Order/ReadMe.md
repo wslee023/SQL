@@ -5,6 +5,9 @@
 # Method
 * Calculate and rank available time slots with reference to a specified date and time
 
+# Tools
+* MSSQL Management Studio
+
 # Detailed calculations
 1.	Obtain the start time and day of week of the specified date and time
 2.	Obtain the earliest available date
